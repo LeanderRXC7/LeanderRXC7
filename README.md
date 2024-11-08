@@ -18,7 +18,7 @@
 </div><br/>
 
 ## Projetos destacados:
-- [Projeto 1](): Sistema de Gestão Comercial via Internet
+
 
 ## Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leanderrxc/)
