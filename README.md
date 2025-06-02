@@ -4,7 +4,6 @@
 - 💻Técnico em Informática pelo IF SUDESTE-MG.
 - 📶Atualmente trabalhando como TI.
 
-![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeanderRXC7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanderRXC7&layout=compact&theme=radical)
 
 ## Linguagens e Ferramentas:
